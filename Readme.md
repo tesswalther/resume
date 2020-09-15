@@ -9,3 +9,7 @@
 
 2020 MS University of Maine
 
+## Research Interests
+
+Paleoclimate, Glacial Geology
+
