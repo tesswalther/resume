@@ -6,5 +6,6 @@
 ## Education
 
 2015 BS Bates College
+
 2020 MS University of Maine
 
